@@ -15,7 +15,6 @@ import Description from "./pages/Description";
 function App() {
   const [token, setToken] = useState(undefined);
   const [user, setUser] = useState(undefined);
-  const [blogData, setBlogData] = useState(null);
 
   useEffect(() => {
     const userData = JSON.parse(localStorage?.data || null);
