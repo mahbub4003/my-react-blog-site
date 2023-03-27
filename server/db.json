@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "email": "mahbub01750934003@gmail.com",
+      "password": "$2a$10$xDNaJuZpmYkBDGIZJmLJrOFScpACXMBFQpMbYYjlJp/8eGe2Dusbq",
+      "name": "mahbub alam",
+      "cell": "01750934003",
+      "id": 1
+    },
+    {
+      "email": "akash@learnwithsumit.com",
+      "password": "$2a$10$EaiCKXm1XQtKm7wzLsLW2e8QqJhlFCkC2xpCH4KYNO02kCtk71sny",
+      "name": "akash ahmad",
+      "cell": "01750934003",
+      "id": 2
+    },
+    {
+      "email": "sumit@learnwithsumit.com",
+      "password": "$2a$10$VV9tpNx3hHzwpZQCXtm7feeugwDqH8pX97l2jSe8hrrXHmip3aV/q",
+      "name": "sumit saha",
+      "cell": "01750934003",
+      "id": 3
+    },
+    {
+      "email": "muhibbee@gmail.com",
+      "password": "$2a$10$9u2hXyPZgLDaSw9bdIFyfuwyyjXvVXJ.dgYeyd4K2bJtpn3c4mf5K",
+      "name": "Ahmadullah Muhibbee",
+      "cell": "01737220911",
+      "id": 4
+    }
+  ],
+  "blogs": [
+    {
+      "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305183140/Javascript.jpg",
+      "title": "JavaScript is wasome",
+      "des": " As JavaScript is getting more and more popular, teams are leveraging its support on many levels in their stack - front-end, back-end, hybrid apps, embedded devices and much more.This post is meant to be the first in a series aimed at digging deeper into JavaScript and how it actually works: we thought that by knowing the building blocks of JavaScript and how they come to play together you’ll be able to write better code and apps. We’ll also share some rules of thumb we use when building SessionStack JavaScript application that has to be robust and highly-performant in order to stay competitive.As shown in the GitHut stats, JavaScript is at the top in terms of Active Repositories and Total Pushes in GitHub. It doesn’t lag behind much in the other categories either",
+      "id": 1
+    },
+    {
+      "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305183140/Javascript.jpg",
+      "title": "JavaScript is wasome",
+      "des": " As JavaScript is getting more and more popular, teams are leveraging its support on many levels in their stack - front-end, back-end, hybrid apps, embedded devices and much more.This post is meant to be the first in a series aimed at digging deeper into JavaScript and how it actually works: we thought that by knowing the building blocks of JavaScript and how they come to play together you’ll be able to write better code and apps. We’ll also share some rules of thumb we use when building SessionStack JavaScript application that has to be robust and highly-performant in order to stay competitive.As shown in the GitHut stats, JavaScript is at the top in terms of Active Repositories and Total Pushes in GitHub. It doesn’t lag behind much in the other categories either",
+      "id": 2
+    },
+    {
+      "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305183140/Javascript.jpg",
+      "title": "JavaScript is wasome",
+      "des": " As JavaScript is getting more and more popular, teams are leveraging its support on many levels in their stack - front-end, back-end, hybrid apps, embedded devices and much more.This post is meant to be the first in a series aimed at digging deeper into JavaScript and how it actually works: we thought that by knowing the building blocks of JavaScript and how they come to play together you’ll be able to write better code and apps. We’ll also share some rules of thumb we use when building SessionStack JavaScript application that has to be robust and highly-performant in order to stay competitive.As shown in the GitHut stats, JavaScript is at the top in terms of Active Repositories and Total Pushes in GitHub. It doesn’t lag behind much in the other categories either",
+      "id": 3
+    },
+    {
+      "img": "https://www.techiediaries.com/images/2018-01-15-fake-api-jwt-json-server.png",
+      "title": "Json server ",
+      "des": "When first building a react app as a beginner, you may have all these cool ideas you want to include in your project, but the one thing holding you back is a user authentication system where you can store the information of different users to your app. Maybe you want to hone your skills on the front-end and just don't have the resources to build out an extensive back-end to handle this. Here, we will walk through the BARE MINIMUM of what you need to do to mock this functionality.",
+      "id": 4
+    },
+    {
+      "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--2waygIlW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vak9gzza881tj8ttvvme.png",
+      "title": "Dynamic Routing",
+      "des": "Routing is a topic most of us are familiar with. However, SPA frameworks and routing libraries use different techniques underneath. Two such approaches are static and dynamic routing. Frameworks like Angular, Ember and React Router library (in the past) supported static routing.  But recently, React Router introduced dynamic routing to address some of the core limitations with static routing.  As developers, we should be aware of both these techniques, and this article will give you all the answers you need on static and dynamic routing in React.",
+      "id": 5
+    }
+  ]
+}
